@@ -1,16 +1,14 @@
-## Hi there 👋
+# Halla! I'm Sindre Von H Marker
 
-<!--
-**SindreVonH/SindreVonH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a front-end development student at Noroff, deepening my skills and excited about the future. I have a Bachelor's degree in Ecology and Environmental Management from USN. Living in Norway, I love exploring its beautiful landscapes, hanging out with friends, and discovering new technologies.
 
-Here are some ideas to get you started:
+## Skills 
+- HTML
+- CSS
+- JavaScript
+- R Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/sindre-marker-63937a215/)
+- [Email](sindre.marker@gmail.com)
