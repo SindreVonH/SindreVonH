@@ -12,4 +12,4 @@ I am a front-end development student at Noroff, with a Bachelor's degree in Ecol
 ## Contact
 - [Portfolio](https://sindrevonh.github.io/Portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/sindre-marker-63937a215/)
-- [Email](sindre.marker@gmail.com)
+- Sindre.marker@gmail.com
