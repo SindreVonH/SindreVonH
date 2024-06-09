@@ -1,7 +1,7 @@
 # Halla! I'm Sindre Von H Marker
 
 ## About Me
-I'm a front-end development student at Noroff, deepening my skills and excited about the future. I have a Bachelor's degree in Ecology and Environmental Management from USN. Living in Norway, I love exploring its beautiful landscapes, hanging out with friends, and discovering new technologies.
+I am a front-end development student at Noroff, with a Bachelor's degree in Ecology and Environmental Management from USN. Living in Norway, I enjoy exploring its landscapes, spending time with friends, and discovering new technologies.
 
 ## Skills 
 - HTML
