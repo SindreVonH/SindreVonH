@@ -1,4 +1,4 @@
-# Hey! I'm Sindre Marker
+# Hey! 
 
 ## About Me
 I am a front-end development student at Noroff, with a Bachelor's degree in Ecology from USN. Living in Norway, I enjoy exploring its landscapes, spending time with friends, and discovering new technologies.
